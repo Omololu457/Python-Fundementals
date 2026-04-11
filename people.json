@@ -1,0 +1,362 @@
+{
+"Arica Himmel": {
+"frc": 54,
+"sps": 46,
+"usv": 58,
+"emotional": 72,
+"adventure": 64,
+"age": 21,
+"lifestyle_conflict": false,
+"value_mismatch": 52,
+"aesthetic": {
+"skin_tone": 48,
+"softness": 66,
+"facial_harmony": 73,
+"eye_expressiveness": 78,
+"lip_fullness": 62,
+"hair_volume": 68,
+"body_balance": 71,
+"presence": 72
+}
+},
+"Taylour Paige": {
+"frc": 50,
+"sps": 44,
+"usv": 60,
+"emotional": 80,
+"adventure": 68,
+"age": 36,
+"lifestyle_conflict": false,
+"value_mismatch": 55,
+"aesthetic": {
+"skin_tone": 52,
+"softness": 63,
+"facial_harmony": 75,
+"eye_expressiveness": 82,
+"lip_fullness": 64,
+"hair_volume": 60,
+"body_balance": 74,
+"presence": 78
+}
+},
+"Zendaya": {
+"frc": 56,
+"sps": 52,
+"usv": 78,
+"emotional": 74,
+"adventure": 70,
+"age": 30,
+"lifestyle_conflict": true,
+"value_mismatch": 60,
+"aesthetic": {
+"skin_tone": 55,
+"softness": 68,
+"facial_harmony": 82,
+"eye_expressiveness": 84,
+"lip_fullness": 60,
+"hair_volume": 72,
+"body_balance": 78,
+"presence": 86
+}
+},
+"Storm Reid": {
+"frc": 58,
+"sps": 45,
+"usv": 62,
+"emotional": 73,
+"adventure": 66,
+"age": 23,
+"lifestyle_conflict": false,
+"value_mismatch": 50,
+"aesthetic": {
+"skin_tone": 50,
+"softness": 70,
+"facial_harmony": 74,
+"eye_expressiveness": 80,
+"lip_fullness": 63,
+"hair_volume": 66,
+"body_balance": 72,
+"presence": 73
+}
+},
+"Laura Harrier": {
+"frc": 49,
+"sps": 50,
+"usv": 67,
+"emotional": 68,
+"adventure": 62,
+"age": 36,
+"lifestyle_conflict": false,
+"value_mismatch": 57,
+"aesthetic": {
+"skin_tone": 54,
+"softness": 64,
+"facial_harmony": 78,
+"eye_expressiveness": 75,
+"lip_fullness": 61,
+"hair_volume": 67,
+"body_balance": 76,
+"presence": 77
+}
+},
+"Amandla Stenberg": {
+"frc": 53,
+"sps": 47,
+"usv": 65,
+"emotional": 82,
+"adventure": 69,
+"age": 28,
+"lifestyle_conflict": false,
+"value_mismatch": 54,
+"aesthetic": {
+"skin_tone": 46,
+"softness": 72,
+"facial_harmony": 76,
+"eye_expressiveness": 85,
+"lip_fullness": 63,
+"hair_volume": 70,
+"body_balance": 71,
+"presence": 76
+}
+},
+"Yara Shahidi": {
+"frc": 60,
+"sps": 48,
+"usv": 70,
+"emotional": 78,
+"adventure": 60,
+"age": 26,
+"lifestyle_conflict": false,
+"value_mismatch": 50,
+"aesthetic": {
+"skin_tone": 49,
+"softness": 68,
+"facial_harmony": 80,
+"eye_expressiveness": 82,
+"lip_fullness": 60,
+"hair_volume": 65,
+"body_balance": 74,
+"presence": 78
+}
+},
+"Karrueche Tran": {
+"frc": 48,
+"sps": 55,
+"usv": 72,
+"emotional": 66,
+"adventure": 63,
+"age": 38,
+"lifestyle_conflict": true,
+"value_mismatch": 62,
+"aesthetic": {
+"skin_tone": 53,
+"softness": 62,
+"facial_harmony": 77,
+"eye_expressiveness": 74,
+"lip_fullness": 65,
+"hair_volume": 70,
+"body_balance": 75,
+"presence": 80
+}
+},
+"Naomi Osaka": {
+"frc": 62,
+"sps": 40,
+"usv": 68,
+"emotional": 75,
+"adventure": 58,
+"age": 29,
+"lifestyle_conflict": false,
+"value_mismatch": 48,
+"aesthetic": {
+"skin_tone": 56,
+"softness": 65,
+"facial_harmony": 78,
+"eye_expressiveness": 79,
+"lip_fullness": 62,
+"hair_volume": 60,
+"body_balance": 80,
+"presence": 82
+}
+},
+"Megan Thee Stallion": {
+"frc": 45,
+"sps": 60,
+"usv": 75,
+"emotional": 77,
+"adventure": 85,
+"age": 31,
+"lifestyle_conflict": true,
+"value_mismatch": 70,
+"aesthetic": {
+"skin_tone": 58,
+"softness": 60,
+"facial_harmony": 76,
+"eye_expressiveness": 83,
+"lip_fullness": 70,
+"hair_volume": 68,
+"body_balance": 82,
+"presence": 90
+}
+},
+"Rihanna": {
+"frc": 44,
+"sps": 65,
+"usv": 88,
+"emotional": 83,
+"adventure": 82,
+"age": 38,
+"lifestyle_conflict": true,
+"value_mismatch": 78,
+"aesthetic": {
+"skin_tone": 57,
+"softness": 66,
+"facial_harmony": 84,
+"eye_expressiveness": 88,
+"lip_fullness": 78,
+"hair_volume": 72,
+"body_balance": 83,
+"presence": 95
+}
+},
+"Beyoncé": {
+"frc": 65,
+"sps": 70,
+"usv": 92,
+"emotional": 80,
+"adventure": 60,
+"age": 45,
+"lifestyle_conflict": true,
+"value_mismatch": 82,
+"aesthetic": {
+"skin_tone": 55,
+"softness": 67,
+"facial_harmony": 86,
+"eye_expressiveness": 85,
+"lip_fullness": 70,
+"hair_volume": 75,
+"body_balance": 84,
+"presence": 97
+}
+},
+"Scarlett Johansson": {
+"frc": 57,
+"sps": 72,
+"usv": 80,
+"emotional": 76,
+"adventure": 65,
+"age": 42,
+"lifestyle_conflict": true,
+"value_mismatch": 68,
+"aesthetic": {
+"skin_tone": 78,
+"softness": 70,
+"facial_harmony": 85,
+"eye_expressiveness": 83,
+"lip_fullness": 74,
+"hair_volume": 65,
+"body_balance": 79,
+"presence": 88
+}
+},
+"Ana de Armas": {
+"frc": 60,
+"sps": 68,
+"usv": 78,
+"emotional": 74,
+"adventure": 70,
+"age": 38,
+"lifestyle_conflict": false,
+"value_mismatch": 60,
+"aesthetic": {
+"skin_tone": 62,
+"softness": 72,
+"facial_harmony": 84,
+"eye_expressiveness": 86,
+"lip_fullness": 75,
+"hair_volume": 70,
+"body_balance": 80,
+"presence": 85
+}
+},
+"Margot Robbie": {
+"frc": 63,
+"sps": 66,
+"usv": 82,
+"emotional": 72,
+"adventure": 68,
+"age": 36,
+"lifestyle_conflict": false,
+"value_mismatch": 58,
+"aesthetic": {
+"skin_tone": 75,
+"softness": 74,
+"facial_harmony": 86,
+"eye_expressiveness": 82,
+"lip_fullness": 73,
+"hair_volume": 78,
+"body_balance": 81,
+"presence": 88
+}
+},
+"Bella Hadid": {
+"frc": 46,
+"sps": 78,
+"usv": 85,
+"emotional": 70,
+"adventure": 74,
+"age": 30,
+"lifestyle_conflict": true,
+"value_mismatch": 72,
+"aesthetic": {
+"skin_tone": 58,
+"softness": 55,
+"facial_harmony": 88,
+"eye_expressiveness": 80,
+"lip_fullness": 60,
+"hair_volume": 65,
+"body_balance": 78,
+"presence": 90
+}
+},
+"Gigi Hadid": {
+"frc": 55,
+"sps": 75,
+"usv": 83,
+"emotional": 68,
+"adventure": 72,
+"age": 31,
+"lifestyle_conflict": true,
+"value_mismatch": 70,
+"aesthetic": {
+"skin_tone": 70,
+"softness": 66,
+"facial_harmony": 86,
+"eye_expressiveness": 78,
+"lip_fullness": 64,
+"hair_volume": 72,
+"body_balance": 80,
+"presence": 88
+}
+},
+"Adriana Lima": {
+"frc": 50,
+"sps": 82,
+"usv": 86,
+"emotional": 73,
+"adventure": 70,
+"age": 45,
+"lifestyle_conflict": true,
+"value_mismatch": 75,
+"aesthetic": {
+"skin_tone": 60,
+"softness": 64,
+"facial_harmony": 88,
+"eye_expressiveness": 86,
+"lip_fullness": 72,
+"hair_volume": 68,
+"body_balance": 82,
+"presence": 92
+}
+}
+}
